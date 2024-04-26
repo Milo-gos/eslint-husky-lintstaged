@@ -1,9 +1,0 @@
-{
-    "extends":[
-        "prettier"
-    ],
-    "rules": {
-        "indent": ["error",4],
-        "quotes": ["error","double"]
-    }
-}
